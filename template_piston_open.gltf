@@ -1,0 +1,1 @@
+{"asset":{"version":"2.0","generator":"Blockbench 5.0.7 glTF exporter"},"scenes":[{"nodes":[0,1,2],"name":"blockbench_export"}],"scene":0,"nodes":[{"translation":[0.5,0.5,0.5],"name":"piston_extended"},{"translation":[0.5,0.5,0.5],"name":"piston_head"},{"translation":[0.5,0.5,0.5],"name":"template_piston_head"}]}
